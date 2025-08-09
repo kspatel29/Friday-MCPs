@@ -4,7 +4,6 @@
 - Unreal Engine installed (project open in editor)
 - Python 3.10 or newer
 - uv package manager (required)
-  - macOS: `brew install uv`
   - Windows: `powershell -c "irm https://astral.sh/uv/install.ps1 | iex"`
 
 ### Folder to Use
