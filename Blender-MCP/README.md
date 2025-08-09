@@ -4,10 +4,6 @@
 - Blender 3.0 or newer
 - Python 3.10 or newer
 - uv package manager (required)
-  - macOS:
-    ```bash
-    brew install uv
-    ```
   - Windows:
     ```powershell
     powershell -c "irm https://astral.sh/uv/install.ps1 | iex"
