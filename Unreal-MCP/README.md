@@ -10,12 +10,12 @@ Transform your Unreal Engine workflow with AI-powered automation, blueprint gene
 - Python 3.10+
 - Unreal Engine 5+
 - uvx installed
-- MCP Client (Claude Desktop, Cursor, or Windsurf)
+- MCP Client (Friday, Claude Desktop, Cursor, or Windsurf)
 
 ### Installation
 
 1. **Download Unreal Engine Plugin:**
-   📦 Plugin Download: Link will be updated in next version
+   📦 Plugin Download: Download the plugin through Fab - https://www.fab.com/listings/4a220eb1-4068-4787-9f67-83d303c42146 (Plugin will be available soon :) )
 
 2. **Configure MCP Client:**
    Add this configuration to your MCP client settings:
@@ -34,12 +34,13 @@ Transform your Unreal Engine workflow with AI-powered automation, blueprint gene
    }
    ```
 
-   **For Friday Already configured. Download it here: https://gamewave.dev/**
+3. Download MCP Client. Download any one of the following from below:
+   - **For Friday Already configured. Download it here: https://gamewave.dev/** - Sign up for our beta now — spaces are limited!
    - **For Claude Desktop:** Add to `%APPDATA%\Claude\claude_desktop_config.json`
    - **For Cursor:** Add to your Cursor MCP settings
    - **For Windsurf:** Add to your Windsurf MCP configuration
 
-3. **Launch Unreal Engine and start your MCP client!**
+5. **Launch Unreal Engine and start your MCP client!**
 
 ## ✨ Features
 
@@ -79,14 +80,13 @@ Transform your Unreal Engine workflow with AI-powered automation, blueprint gene
 ✅ List all actors in the current level  
 ✅ Set and query light properties (intensity, color, attenuation, shadows, source size)  
 ✅ Spawn actors from Blueprint classes with custom transforms  
-🚧 Change materials and color (coming soon)  
 
 ### 🤖 AI Integration
 🛠️ Prompt to 3D model fetch and spawn (in development)  
 
 ### ⚙️ Control Systems
 ✅ Run Python scripts directly in Unreal  
-🚧 Run Console Commands (coming soon)  
+✅ Run Console Commands
 
 ### 🎨 UI Development
 ✅ Create UMG Widget Blueprints for building user interfaces  
@@ -125,7 +125,7 @@ Transform your Unreal Engine workflow with AI-powered automation, blueprint gene
 visit gamewave.dev
 
 ## 📝 License
-This project is licensed under the GNU General Public License v3.0 - see the LICENSE file for details.
+Python mcp server project is licensed under the GNU General Public License v3.0 - see the LICENSE file for details.
 
 ## 🤝 Support
 - **Email:** fridayue5@gmail.com
