@@ -46,6 +46,8 @@ Transform your Unreal Engine workflow with AI-powered automation, blueprint gene
 
 As soon as the plugin is installed in the unreal engine, the plugin is ready to use. No other changes from the user side are required. Next, open Friday and enter a prompt "Spawn physics sphere" this will automatically create a physics sphere inside the open unreal engine level.
 
+Watch the following video on how to use the plugin:
+
 [![Watch the video](https://github.com/kspatel29/Friday-MCPs/blob/main/Unreal-MCP/FridayUE-Demo.PNG)](https://youtu.be/2oSdVcbY_jM)
 
 ## ✨ Features
