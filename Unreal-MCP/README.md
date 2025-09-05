@@ -35,12 +35,18 @@ Transform your Unreal Engine workflow with AI-powered automation, blueprint gene
    ```
 
 3. Download MCP Client. Download any one of the following from below:
-   - **For Friday Already configured. Download it here: https://gamewave.dev/** - Sign up for our beta now — spaces are limited!
+   - **For Friday Already configured. Download it here: https://gamewave.dev/** - Sign up for our beta now. Additionally the tool can also be downloaded from microsoft store: https://apps.microsoft.com/detail/9P5MDSRJHDC8?hl=en-us&gl=CA&ocid=pdpshare
    - **For Claude Desktop:** Add to `%APPDATA%\Claude\claude_desktop_config.json`
    - **For Cursor:** Add to your Cursor MCP settings
    - **For Windsurf:** Add to your Windsurf MCP configuration
 
 5. **Launch Unreal Engine and start your MCP client!**
+
+## How to Use it
+
+As soon as the plugin is installed in the unreal engine, the plugin is ready to use. No other changes from the user side are required. Next, open Friday and enter a prompt "Spawn physics sphere" this will automatically create a physics sphere inside the open unreal engine level.
+
+[![Watch the video](https://github.com/kspatel29/Friday-MCPs/blob/main/Unreal-MCP/FridayUE-Demo.PNG)](https://youtu.be/2oSdVcbY_jM)
 
 ## ✨ Features
 
